@@ -30,14 +30,3 @@ A beginner-friendly presentation created for the **Junior Guidance Session** to 
 
 The presentation contains clickable resource links for easy access during or after the session.
 
----
-
-### ⭐ Remember
-
-You don't need to solve hundreds of problems immediately.
-
-Start small.
-Stay consistent.
-Learn from your mistakes.
-
-**Your goal is not just to solve more problems — it's to become a better problem solver.**
