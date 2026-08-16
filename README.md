@@ -30,14 +30,6 @@ A beginner-friendly presentation created for the **Junior Guidance Session** to 
 
 The presentation contains clickable resource links for easy access during or after the session.
 
-## 👤 Creator
-
-**Megh Naik**
-
-Created for the **Junior Guidance Session**.
-
-> **Learn → Practice → Track → Improve → Repeat 🚀**
-
 ---
 
 ### ⭐ Remember
